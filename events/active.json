@@ -1,0 +1,43 @@
+{
+  "slug": "green-apple-catering-kothamangalam",
+  "name": "Green Apple Catering",
+  "shortName": "Green Apple",
+  "descriptor": "Catering Services",
+  "address": "near Shobana English Medium Public School, Kothamangalam, Keralam 686691",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686691",
+  "geo": {
+    "lat": 10.0607904,
+    "lng": 76.6286939
+  },
+  "mapsLink": "https://maps.google.com/?cid=17813298273067331948",
+  "phone": "+91 80860 88913",
+  "whatsapp": "918086088913",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "name": "Aldin Joseph",
+      "rating": 5,
+      "quote": "Variety taste of food and excellent customer service."
+    },
+    {
+      "name": "Adithyan PV",
+      "rating": 5,
+      "quote": "Really good food and excellent service"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://green-apple-catering-kothamangalam.vercel.app"
+}
